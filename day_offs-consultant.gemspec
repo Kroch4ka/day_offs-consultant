@@ -3,7 +3,7 @@
 require_relative "lib/day_offs/consultant/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "day_offs-my_source"
+  spec.name = "day_offs-consultant"
   spec.version = DayOffs::Consultant::VERSION
   spec.authors = ["Kroch4ka"]
   spec.email = ["nekitgo80@gmail.com"]
